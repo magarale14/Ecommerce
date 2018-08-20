@@ -1,4 +1,4 @@
-/* This program is to create product of objects, classs and array of product
+/* This program is to create product of objects, class and array of product
  * Author: Reeta
  * Date:8/13/18
  */
